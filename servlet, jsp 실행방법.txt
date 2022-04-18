@@ -1,0 +1,10 @@
+tomcat 설치(servlet 버전에 맞게 설치)
+
+CATALINA_HOME, PATH 환경변수 편집
+
+eclipse에 server추가(tomcat으로)
+
+새로운 dynamic web project 생성
+cf) 없다면 help->install new software->java ee버전 설치
+
+프로젝트 properties에서 java build path->classpath클릭->add library->server runtime추가
