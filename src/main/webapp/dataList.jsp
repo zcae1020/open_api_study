@@ -15,9 +15,11 @@
 			<table class="table table-striped"id="member_table">
 				<thead>
 					<tr>
-						<th>NAME</th>
-						<th>AGE</th>
-						<th>ADDRESS</th>
+						<th>No</th>
+						<th>충전소명</th>
+						<th>사용시간</th>
+						<th>도로명주소</th>
+						<th>세부위치</th>
 					</tr>
 				</thead>
 				<tbody>
